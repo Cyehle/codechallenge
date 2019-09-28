@@ -1,0 +1,9 @@
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\bin\Debug\netcoreapp2.2\Sabio.Models.deps.json
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\bin\Debug\netcoreapp2.2\Sabio.Models.dll
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\bin\Debug\netcoreapp2.2\Sabio.Models.pdb
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\obj\Debug\netcoreapp2.2\Sabio.Models.csprojAssemblyReference.cache
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\obj\Debug\netcoreapp2.2\Sabio.Models.csproj.CoreCompileInputs.cache
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\obj\Debug\netcoreapp2.2\Sabio.Models.AssemblyInfoInputs.cache
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\obj\Debug\netcoreapp2.2\Sabio.Models.AssemblyInfo.cs
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\obj\Debug\netcoreapp2.2\Sabio.Models.dll
+C:\SF.code\CodeChallenge\dotnet\Sabio.Models\obj\Debug\netcoreapp2.2\Sabio.Models.pdb
